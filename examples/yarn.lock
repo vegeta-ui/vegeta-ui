@@ -1615,6 +1615,11 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
+"@vegeta-ui/core@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@vegeta-ui/core/-/core-0.1.0.tgz#8181ae3ee1d0b7c5e19395ca2384a0fab9046d2c"
+  integrity sha512-zJ58fRsp3UlTlhc4qBgGnUVUOMMZZiBkpMPX+j8aTJ4RcO9WWGJadLN8Ix3+sxthLUYs98kThv5BLXRuhXdXWw==
+
 "@webassemblyjs/ast@1.8.5":
   version "1.8.5"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.8.5.tgz#51b1c5fe6576a34953bf4b253df9f0d490d9e359"
