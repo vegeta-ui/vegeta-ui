@@ -1,6 +1,6 @@
 {
   "name": "@vegeta-ui/core",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "main": "build/index.js",
   "module": "build/index.esm.js",
   "files": [
@@ -37,7 +37,8 @@
   "homepage": "https://www.vegeta-ui.com",
   "peerDependencies": {
     "react": ">=16.8.0",
-    "react-dom": ">=16.8.0"
+    "react-dom": ">=16.8.0",
+    "styled-components": ">=^5.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
