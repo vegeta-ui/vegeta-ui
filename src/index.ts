@@ -1,3 +1,2 @@
-import TestComponent from "./TestComponent/TestComponent";
-
-export { TestComponent };
+export { default as Theme } from "./Theme/Theme";
+export { default as Button } from "./Button/Button";
